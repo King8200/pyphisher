@@ -1,0 +1,20 @@
+IP                   : 49.37.74.69
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Navi Mumbai, India, Asia
+GeoLocation(lat, lon): 18.9832829, 73.108491
+Currency             : Indian Rupee
+
+IP                   : 106.221.42.57
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Bhopal, India, Asia
+GeoLocation(lat, lon): 23.2599333, 77.412615
+Currency             : Indian Rupee
+

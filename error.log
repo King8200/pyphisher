@@ -1,0 +1,5 @@
+Invalid URL 'instagram-farewell': No scheme supplied. Perhaps you meant https://instagram-farewell?
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+HTTPSConnectionPool(host='api.shrtco.de', port=443): Max retries exceeded with url: /v2/shorten?url=https://calculations-sitemap-lloyd-pamela.trycloudflare.com (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7a480f3c10>: Failed to resolve 'api.shrtco.de' ([Errno 7] No address associated with hostname)"))
+HTTPSConnectionPool(host='api.shrtco.de', port=443): Max retries exceeded with url: /v2/shorten?url=https://kshrt2.vercel.app/cf/calculations-sitemap-lloyd-pamela (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7a47f05050>: Failed to resolve 'api.shrtco.de' ([Errno 7] No address associated with hostname)"))
+Invalid URL 'inatagram-farewell': No scheme supplied. Perhaps you meant https://inatagram-farewell?
